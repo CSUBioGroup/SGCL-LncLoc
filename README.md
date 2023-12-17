@@ -68,7 +68,7 @@ The *testset.txt* in *Independent_test_set* folder is used in comparison with ot
 The other details can be seen in the paper and the codes.
 
 # Citation
-Min Li, Baoying Zhao, Yiming Li, Jingwei Lu, Fuhao Zhang, Shichao Kan, Min Zeng. SGCL-LncLoc: an interpretable deep learning model for improving lncRNA subcellular localization prediction with supervised graph contrastive learning.
+Min Li, Baoying Zhao, Yiming Li, Pingjian Ding, Rui Yin, Shichao Kan, Yi Pan and Min Zeng. SGCL-LncLoc: an interpretable deep learning model for improving lncRNA subcellular localization prediction with supervised graph contrastive learning.
 
 # License
 This project is licensed under the MIT License - see the LICENSE.txt file for details
